@@ -1,7 +1,7 @@
 # kuayu-1
 使用方法
 安装 node-dev yarn global add node-dev
-下载代码 https://github.com/FrankFang/kuayu-1.git
+下载代码 https://github.com/qqqq12337/kuayu-1
 进入 qq-com 运行 server.js cd kuayu-1/qq-com; node-dev server.js 8888
 进入 frank-com 运行 server.js cd ../frank-com; node-dev server.js 9999
 设置 hosts
